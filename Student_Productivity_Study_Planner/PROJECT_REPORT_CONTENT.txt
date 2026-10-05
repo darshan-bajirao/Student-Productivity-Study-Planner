@@ -1,0 +1,50 @@
+MINI PROJECT TITLE
+Student Productivity & Study Planner System
+
+ABSTRACT
+The Student Productivity & Study Planner System is a Java-based desktop application developed using Java Swing. It provides students with a single workspace for organizing subjects, academic tasks, study schedules, notes, focused study sessions, reminders and productivity statistics. The application uses object-oriented programming, collections, file handling, event-driven GUI programming, exception handling and multithreading concepts. User accounts and workspace data are stored locally through Java serialization.
+
+OBJECTIVES
+1. Provide a centralized study-planning workspace.
+2. Track academic tasks, priorities, statuses and deadlines.
+3. Maintain a weekly study timetable.
+4. Provide a focused Pomodoro study timer.
+5. Store subject-wise notes.
+6. Display productivity statistics and study-time distribution.
+7. Provide deadline reminders.
+8. Demonstrate important Java programming concepts in a practical application.
+
+MODULES
+1. Authentication
+2. Dashboard
+3. Subject Management
+4. Task Management
+5. Weekly Study Planner
+6. Pomodoro Timer
+7. Notes Management
+8. Productivity Statistics
+9. Reminders
+10. Local Data Storage
+
+JAVA CONCEPTS USED
+- Classes and objects
+- Encapsulation
+- Enumerations
+- Collections
+- Serialization
+- File handling
+- Exception handling
+- Event listeners
+- Swing GUI
+- Swing Timer
+- ScheduledExecutorService
+- Custom painting with Graphics2D
+
+HARDWARE REQUIREMENTS
+Any Windows/Linux/macOS computer capable of running a Java desktop application.
+
+SOFTWARE REQUIREMENTS
+JDK 17 or newer, preferably JDK 21; Visual Studio Code/IntelliJ IDEA/Eclipse; Windows, Linux or macOS.
+
+FUTURE SCOPE
+Cloud sync, mobile support, calendar integrations, push notifications, online backup, advanced analytics and AI-assisted planning can be added later.
