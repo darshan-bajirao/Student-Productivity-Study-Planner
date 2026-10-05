@@ -1,4 +1,4 @@
-# Student Productivity & Study Planner — FINAL DARK EDITION
+# Student Productivity & Study Planner
 
 A polished Java Swing desktop application for a college Java mini-project.
 
